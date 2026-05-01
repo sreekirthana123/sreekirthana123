@@ -24,6 +24,6 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ffa500&center=true&vCenter=true&width=850&lines=Machine+Learning+•+Software+Engineer+•+Full+Stack+•+Deep+learning+•+GenAI;Open+to+SWE+•+Data+Engg+•+GenAI+Roles+🔥;AIML+Student+at+JB+Institute+of+Engineering+%26+Technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ffa500&center=true&vCenter=true&width=1000&lines=Machine+Learning+%E2%80%A2+MLOps+%E2%80%A2+Software+Engineering;Open+to+Machine+Learning+%E2%80%A2+Software+Engineering+%E2%80%A2+Data+Science+Roles+%F0%9F%94%A5;Analytical+Problem+Solver+%E2%80%A2+Technical+Communicator" alt="Typing SVG" />
   </a>
 </div>

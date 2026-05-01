@@ -19,3 +19,29 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=181717" />
 </p>
+
+## 👩‍💻 About Me
+```python
+class SreeKirthana:
+    degree   = "B.Tech in Artificial Intelligence & Machine Learning"
+    college  = "JB Institute of Engineering & Technology, Hyderabad"
+    location = "Hyderabad, India"
+    focus    = ["Data Engineering", "MLOps", "RAG", "Agentic AI"]
+    mindset  = "Building Intelligent Systems from scratch 🧠"
+    learning = "French (Duolingo) 🇫🇷"
+
+I design and build intelligent data pipelines — from MLOps workflows → Software systems → Agentic AI. My work lives at the intersection of scalable data engineering and real-world AI impact and writing a scalable and robust code and deplaying and Machine Learning models.
+
+## **Tech Stack Section**
+This table mirrors the one in the screenshot, organized by your specific expertise in **Data Engineering** and **AI/ML**.
+
+```markdown
+## ⚡ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-74283c?style=flat) |
+| **AI & ML** | ![RAG](https://img.shields.io/badge/RAG-Retrieval-8a2be2) ![MLOps](https://img.shields.io/badge/MLOps-Pipelines-9370DB) ![AgenticAI](https://img.shields.io/badge/Agentic-AI-indigo) |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-Pipelines-mediumpurple) |
+| **Environment** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Win10](https://img.shields.io/badge/Windows_10-0078D6?style=flat&logo=windows&logoColor=white) |
+| **Tools** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-8a2be2?style=flat&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Dia](https://img.shields.io/badge/Dia-Diagrams-grey) ![Wix](https://img.shields.io/badge/Wix-InfoSpark-000000?style=flat&logo=wix&logoColor=white) |

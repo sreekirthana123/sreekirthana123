@@ -54,7 +54,7 @@ My personal portfolio
   <!-- Warm Amber Banner with your custom roles -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=250&section=header&text=Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Development%20%7C%20Deep%20learning&descAlignY=62&descSize=16" />
   
-  <h3>Machine Learning | Software Engineer | Full Stack Development | Deep learning >GenAI/h3>
+  <h3>Machine Learning | Software Engineer | Full Stack Development | Deep learning GenAI/h3>
 
   <p align="center">
     <strong>Open to SWE | Data Engg | AI Roles 🔥</strong>

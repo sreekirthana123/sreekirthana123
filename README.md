@@ -26,10 +26,10 @@ class SreeKirthana:
     degree   = "B.Tech in Artificial Intelligence & Machine Learning"
     college  = "JB Institute of Engineering & Technology, Hyderabad"
     location = "Hyderabad, India"
-    focus    = ["Data Engineering", "MLOps", "RAG", "Agentic AI"]
+    focus    = ["Data Engineering", "MLOps", "Machine Learning", "Agentic AI", "Computer Vision"]
     mindset  = "Building Intelligent Systems from scratch 🧠"
-    learning = "French (Duolingo) 🇫🇷"
+    languages = "French (Duolingo) 🇫🇷, Professional C1 level English"
 
-I design and build intelligent data pipelines — from MLOps workflows → Software systems → Agentic AI. My work lives at the intersection of scalable data engineering and real-world AI impact and writing a scalable and robust code and deplaying and Machine Learning models.```
+I design and build intelligent data pipelines — from MLOps workflows → Software systems → Agentic AI. My work lives at the intersection of scalable data engineering and real-world AI impact and writing a scalable and robust code and deplaying and Machine Learning models.
 
 I design and build intelligent data pipelines — from MLOps workflows → Software systems → Agentic AI. My work lives at the intersection of scalable data engineering, real-world AI impact, and writing scalable, robust code.

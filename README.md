@@ -98,3 +98,8 @@ My personal portfolio
   <!-- Warm Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=ff7f50" />
 </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ffa500&center=true&vCenter=true&width=850&lines=Machine+Learning+•+Software+Engineer+•+Full+Stack+•+Deep+learning+•+GenAI;Open+to+SWE+•+Data+Engg+•+GenAI+Roles+🔥;AIML+Student+at+JB+Institute+of+Engineering+%26+Technology" alt="Typing SVG" />
+  </a>
+</div>

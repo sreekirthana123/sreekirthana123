@@ -19,8 +19,8 @@ My personal portfolio
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=000000&color=39FF14" />[cite: 1]
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=000000&color=39FF14" />
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=000000&color=FF00FF" />
   </a>
   <!-- Neon Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=39FF14" />
+  <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=FF00FF" />
 </p>

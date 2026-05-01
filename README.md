@@ -24,3 +24,11 @@ My personal portfolio
   <!-- Neon Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=FF00FF" />
 </p>
+<div align="center">
+  <!-- Neon Cyan Math/Grid Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ffff&height=200&section=header&text=Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=∫%20f(x)dx%20=%20F(x)%20+%20C%20|%20Σ%20|%20√%20|%20π&descAlignY=70&descSize=20" />
+  
+  <p align="center">
+    <strong>Engineering student at JBIET specializing in AIML & MLOps</strong>
+  </p>
+</div>

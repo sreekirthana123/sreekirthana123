@@ -32,11 +32,9 @@ class SreeKirthana:
 
 I design and build intelligent data pipelines — from MLOps workflows → Software systems → Agentic AI. My work lives at the intersection of scalable data engineering and real-world AI impact and writing a scalable and robust code and deplaying and Machine Learning models.
 
-## **Tech Stack Section**
-This table mirrors the one in the screenshot, organized by your specific expertise in **Data Engineering** and **AI/ML**.
+---
 
-```markdown
-## ⚡ Tech Stack
+## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
 | :--- | :--- |

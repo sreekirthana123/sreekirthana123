@@ -4,7 +4,7 @@
 
   <!-- Dark Blue Dynamic Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00008B&center=true&vCenter=true&width=1000&lines=Machine+Learning+%E2%80%A2+MLOps+%E2%80%A2+Software+Engineering;Open+to+Machine+Learning+dot+Software+Engineering+dot+Data+Science+Roles+%F0%9F%94%A5;Building+Intelligent+Systems+from+scratch+%F0%9F%A7%A0;2nd+Year+Student+%40+JBIET+%E2%80%A2+Moinabad+%E2%80%A2+AIML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00008B&center=true&vCenter=true&width=1000&lines=Machine+Learning+%E2%80%A2+MLOps+%E2%80%A2+Software+Engineering;Open+to+Machine+Learning+•+Software+Engineering+•+Data+Science+Roles+%F0%9F%94%A5;Building+Intelligent+Systems+from+scratch+%F0%9F%A7%A0;2nd+Year+Student+%40+JBIET+%E2%80%A2+Moinabad+%E2%80%A2+AIML" alt="Typing SVG" />
   </a>
 
 <br />

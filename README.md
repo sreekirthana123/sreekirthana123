@@ -68,3 +68,6 @@ class SreeKirthana:
 <!-- Streak Card with Cache Buster -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&fire=8a2be2&stroke=8a2be2&ring=8a2be2&background=0D1117&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <!-- Main Stats Card with Cache Buster -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&v=1" width="48%" alt="Sree Kirthana's GitHub Stats" />

@@ -38,16 +38,14 @@
 
 ## 👩‍💻 About Me
 
-```python
-class SreeKirthana:
-    degree    = "B.Tech in Artificial Intelligence & Machine Learning"
-    college   = "JB Institute of Engineering & Technology, Hyderabad"
-    location  = "Hyderabad, India"
-    focus     = ["Data Engineering", "MLOps", "Machine Learning", "Agentic AI", "Computer Vision"]
-    mindset   = "Building Intelligent Systems from scratch 🧠"
-    languages = "French (Duolingo) 🇫🇷, Professional C1 level English"
-```
-<br />
+| | |
+| :--- | :--- |
+| **Degree** | B.Tech in Artificial Intelligence & Machine Learning |
+| **College** | JB Institute of Engineering & Technology, Hyderabad |
+| **Location** | Hyderabad, India |
+| **Focus** | `Data Engineering` • `MLOps` • `Machine Learning` • `Agentic AI` |
+| **Mindset** | **Building Intelligent Systems from scratch 🧠** |
+| **Languages** | French (Duolingo) 🇫🇷 • Professional C1 level English |
 
 ## 🛠️ Technical Arsenal
 

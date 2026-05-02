@@ -69,3 +69,12 @@ class SreeKirthana:
 | **Current Coding Streak** | ![Streak](https://img.shields.io/badge/2--Day-Streak-8a2be2?style=for-the-badge) |
 | **Top Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Project Accuracy Peak** | ![Accuracy](https://img.shields.io/badge/94.3%25-Accuracy-green?style=for-the-badge) |
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_id=0502" width="48%" alt="GitHub Stats" />
+ 

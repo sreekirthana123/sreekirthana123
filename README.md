@@ -49,6 +49,14 @@
 
 <br />
 
+
+## 🎓 Education
+
+| Institution | Degree & Timeline | Key Highlights |
+| :--- | :--- | :--- |
+| **JB Institute of Engineering & Technology (JBIET)** | **B.Tech in Artificial Intelligence & Machine Learning** <br> Jan 2024 – Nov 2028 | **Grade: 9.0/10** • Focused on building advanced AI systems and leadership. |
+| **St. George's Grammar School** | **Secondary Education** <br> May 2021 – Apr 2023 | Developed strong analytical foundations for engineering. |
+
 ## 💼 Professional Experience
 
 | Role | Organization & Timeline | Key Impact & Tech Stack |
@@ -57,6 +65,8 @@
 | **GenAI Mastermind** | **Outskill** <br> Oct 2025 – Present | Mastering **Generative AI** engineering and **Agentic Workflows** using tools like **NotebookLM**. |
 | **Data Engineering Intern**| **Cognifyz Technologies** <br> Nov 2025 – Dec 2025 | Spearheaded railway operations analysis through a structured **4-phase data pipeline**. |
 | **Machine Learning Intern** | **Cognifyz Technologies** <br> Sep 2025 – Nov 2025 | Delivered end-to-end ML projects using **Python** and **VS Code**. |
+
+<br /> 
 
 ## 🛠️ Technical Arsenal
 

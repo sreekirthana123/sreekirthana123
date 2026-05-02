@@ -47,6 +47,7 @@
 | **Mindset** | **Building Intelligent Systems from scratch 🧠** |
 | **Languages** | French (Duolingo) 🇫🇷 • Professional C1 level English |
 <br />
+
 ## 🎓 Education
 
 | Institution | Degree & Timeline | Key Highlights |

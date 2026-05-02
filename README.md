@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Blue Blur Banner with updated name "V Sree Kirthana" -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=007BFF&height=300&section=header&text=V%20Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Software%20Engineer%20|%20Full%20Stack%20Development%20|%20Deep%20learning&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=007BFF&height=300&section=header&text=V%20Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Software%20Engineer%20|%20Full%20Stack%20Development%20|%20Deep%20learning&descAlignY=62&descSize=22" />
 
   <!-- Dark Blue Dynamic Typing SVG -->
   <a href="https://git.io/typing-svg">

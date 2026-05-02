@@ -121,12 +121,15 @@
 </p>
 
 <br />
+<br />
 
 ## 🎯 What I Bring
 
-*   ✔️ **Strong Fundamentals**: Deep understanding of Machine Learning, Software Engineering, and Data Science roles.
-*   ✔️ **Deep Learning Expertise**: Hands-on experience with PyTorch, TensorFlow, and Keras for building intelligent systems.
-*   ✔️ **Scalable Mindset**: Proven ability to design and build intelligent data pipelines, from MLOps workflows to Agentic AI.
-*   ✔️ **High-Impact Delivery**: Demonstrated success in high-pressure environments, such as achieving **94.3% accuracy** in a recent NLP classification hackathon.
-*   ✔️ **Versatile Developer**: A "builder" mindset with experience ranging from full-stack development to native Android utilities.
-*   ✔️ **Collaborative Learner**: Consistent daily dedication to growth, from mastering complex programming paradigms to linguistic expansion in French.
+| Category | Value Proposition |
+| :--- | :--- |
+| **🚀 Strong Fundamentals** | Deep understanding of **Machine Learning**, **Software Engineering**, and **Data Science** roles. |
+| **🧠 Deep Learning** | Hands-on experience with **PyTorch**, **TensorFlow**, and **Keras** for building intelligent systems. |
+| **🏗️ Scalable Mindset** | Proven ability to design and build intelligent data pipelines, from **MLOps** to **Agentic AI**. |
+| **📈 High-Impact Delivery** | Demonstrated success in high-pressure environments, achieving **94.3% accuracy** in NLP tasks. |
+| **📱 Versatile Developer** | A "builder" mindset with experience in **Full-Stack Development** and **Native Android Utilities**. |
+| **🌐 Constant Growth** | Daily dedication to growth, from **French (Duolingo)** to tackling complex programming paradigms. |

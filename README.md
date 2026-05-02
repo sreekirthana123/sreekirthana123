@@ -47,6 +47,17 @@
 | **Mindset** | **Building Intelligent Systems from scratch 🧠** |
 | **Languages** | French (Duolingo) 🇫🇷 • Professional C1 level English |
 
+<br />
+
+## 💼 Professional Experience
+
+| Role | Organization & Timeline | Key Impact & Tech Stack |
+| :--- | :--- | :--- |
+| **Data Science Intern** | **CodSoft** <br> Jan 2026 – Present | Transforming raw data into insights; developed **Titanic Survival Prediction** models for demographic analysis. |
+| **GenAI Mastermind** | **Outskill** <br> Oct 2025 – Present | Mastering **Generative AI** engineering and **Agentic Workflows** using tools like **NotebookLM**. |
+| **Data Engineering Intern**| **Cognifyz Technologies** <br> Nov 2025 – Dec 2025 | Spearheaded railway operations analysis through a structured **4-phase data pipeline**. |
+| **Machine Learning Intern** | **Cognifyz Technologies** <br> Sep 2025 – Nov 2025 | Delivered end-to-end ML projects using **Python** and **VS Code**. |
+
 ## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |

@@ -49,13 +49,14 @@
 
 <br />
 
-
+<br />
 ## 🎓 Education
 
 | Institution | Degree & Timeline | Key Highlights |
 | :--- | :--- | :--- |
 | **JB Institute of Engineering & Technology (JBIET)** | **B.Tech in Artificial Intelligence & Machine Learning** <br> Jan 2024 – Nov 2028 | **Grade: 9.0/10** • Focused on building advanced AI systems and leadership. |
 | **St. George's Grammar School** | **Secondary Education** <br> May 2021 – Apr 2023 | Developed strong analytical foundations for engineering. |
+
 
 ## 💼 Professional Experience
 
@@ -80,6 +81,18 @@
 
 <br />
 
+
+## 📜 Licenses & Certifications
+
+| Certification | Issuer & Date | Key Skills |
+| :--- | :--- | :--- |
+| **Artificial Intelligence Fundamentals** | **Magic Bus India Foundation & IBM** <br> Jan 2026 | **AI Automation**, **Agentic AI**, and core AI concepts. |
+| **Customer Engagement: Problem Solving** | **Magic Bus India Foundation** <br> Jan 2026 | **Process Controls**, **Communication**, and **Problem Solving**. |
+| **IBM Customer Engagement** | **Magic Bus India Foundation** <br> Jan 2026 | **Personality Dynamics** and **Interpersonal Communication**. |
+| **Inside Agentic AI: Popular Frameworks** | **Infosys Springboard** <br> Nov 2025 | **Agentic AI**, **Autonomous AI**, and framework implementation. |
+| **Freedom With AI** | **Freedom With AI** <br> Nov 2025 | **AI Automation**, **Agentic AI**, and workflow optimization. |
+| **Outskill Mastermind GenAI** | **Outskill** <br> Oct 2025 | **Generative AI**, **AI-native development**, and **NotebookLM**. |
+| **AI for Beginners** | **HP LIFE** <br> 2025 | Foundational **Artificial Intelligence** and **Machine Learning**. |
 ---
 
 <br />
@@ -110,29 +123,6 @@
 </p>
 
 <br />
-
----
-
-<br />
-
-## 📈 Development Pulse
-
-<p align="center">
-  <!-- Mirror Stats Card (Bypasses overloaded main server) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" alt="General Stats" />
-
-<br />
-
-## 🧮 Language Distribution
-
-<p align="center">
-  <!-- Mirror Donut Card -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sreekirthana123&layout=donut&theme=tokyonight&title_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true" width="60%" alt="Tech Stack" />
-</p>
-<br />
-
----
-
 <br />
 
 ## 📈 Contribution Graph

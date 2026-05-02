@@ -89,12 +89,6 @@ class SreeKirthana:
 <p align="center">
   <!-- GitHub General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_id=0502" width="48%" alt="General Stats" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&fire=8a2be2&stroke=8a2be2&ring=8a2be2&background=0D1117&hide_border=true&cache_id=0502" width="48%" alt="Coding Streak" />
-</p>
-
-<br />
 
 ## 🧮 Language Distribution
 

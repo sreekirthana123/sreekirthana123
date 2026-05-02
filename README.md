@@ -102,7 +102,6 @@
 </p>
 
 <br />
-<br />
 
 ## 🎯 What I Bring
 

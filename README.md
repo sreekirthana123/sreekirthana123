@@ -20,10 +20,6 @@ class SreeKirthana:
 ```
 <br />
 
----
-
-<br />
-
 ## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |

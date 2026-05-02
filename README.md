@@ -98,3 +98,25 @@ class SreeKirthana:
   <!-- Mirror Donut Card -->
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sreekirthana123&layout=donut&theme=tokyonight&title_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true" width="60%" alt="Tech Stack" />
 </p>
+<br />
+
+---
+
+<br />
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreekirthana123&theme=tokyonight&color=8a2be2&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
+
+<br />
+
+## 🎯 What I Bring
+
+*   ✔️ **Strong Fundamentals**: Deep understanding of Machine Learning, Software Engineering, and Data Science roles.
+*   ✔️ **Deep Learning Expertise**: Hands-on experience with PyTorch, TensorFlow, and Keras for building intelligent systems.
+*   ✔️ **Scalable Mindset**: Proven ability to design and build intelligent data pipelines, from MLOps workflows to Agentic AI.
+*   ✔️ **High-Impact Delivery**: Demonstrated success in high-pressure environments, such as achieving **94.3% accuracy** in a recent NLP classification hackathon.
+*   ✔️ **Versatile Developer**: A "builder" mindset with experience ranging from full-stack development to native Android utilities.
+*   ✔️ **Collaborative Learner**: Consistent daily dedication to growth, from mastering complex programming paradigms to linguistic expansion in French.

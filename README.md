@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- Spring Green Reversal Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=250&section=header&text=Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Deep%20learning%20%E2%80%A2%20GenAI&descAlignY=62&descSize=16&reversal=true" />
+
+  <!-- Dynamic Typing SVG with Role & Academic details -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&lines=Machine+Learning+%E2%80%A2+MLOps+%E2%80%A2+Software+Engineering;Open+to+Machine+Learning+dot+Software+Engineering+dot+Data+Science+Roles+%F0%9F%94%A5;Building+Intelligent+Systems+from+scratch+%F0%9F%A7%A0;2nd+Year+Student+%40+JBIET+%E2%80%A2+Moinabad+%E2%80%A2+AIML" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <!-- Spring Green Slice Banner -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF7F&height=250&section=header&text=Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Deep%20learning%20%E2%80%A2%20GenAI&descAlignY=62&descSize=16" />
 

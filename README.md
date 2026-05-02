@@ -78,12 +78,6 @@ class SreeKirthana:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&fire=8a2be2&stroke=8a2be2&ring=8a2be2&background=0D1117&hide_border=true&cache_id=0502" width="48%" alt="GitHub Streak" />
 </p>
 
-<br />
-
----
-
-<br />
-
 ## 📈 Development Pulse
 
 <p align="center">

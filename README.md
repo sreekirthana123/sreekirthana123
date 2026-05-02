@@ -27,15 +27,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <!-- Portfolio/Other Tag Placeholder -->
+  <!-- Portfolio/Other Tag -->
   <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=sreekirthana123&color=007BFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-<div align="center">
-</p> 
+  &nbsp;
+  <!-- Profile Views Counter (Now matched in size) -->
+  <img src="https://komarev.com/ghpvc/?username=sreekirthana123&color=007BFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ## 👩‍💻 About Me
 

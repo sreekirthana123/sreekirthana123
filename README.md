@@ -36,6 +36,9 @@ I design and build intelligent data pipelines — from MLOps workflows → Softw
 
 ---
 
+```python
+    learning = "French (Duolingo) 🇫🇷"
+
 ## 🛠️ Technical Arsenal ##
 
 | Category | Tools & Technologies |

@@ -50,6 +50,7 @@
 <br />
 
 <br />
+
 ## 🎓 Education
 
 | Institution | Degree & Timeline | Key Highlights |

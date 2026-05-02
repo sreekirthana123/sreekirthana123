@@ -54,6 +54,7 @@
 | :--- | :--- | :--- |
 | **JB Institute of Engineering & Technology (JBIET)** | **B.Tech in Artificial Intelligence & Machine Learning** <br> Jan 2024 – Nov 2028 | **Grade: 9.0/10** • Focused on building advanced AI systems and leadership. |
 | **St. George's Grammar School** | **Secondary Education** <br> May 2021 – Apr 2023 | Developed strong analytical foundations for engineering. |
+<br />
 
 ## 💼 Professional Experience
 
@@ -65,6 +66,7 @@
 | **Machine Learning Intern** | **Cognifyz Technologies** <br> Sep 2025 – Nov 2025 | Delivered end-to-end ML projects using **Python** and **VS Code**. |
 
 <br /> 
+
 ## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
@@ -76,6 +78,7 @@
 | **Tools** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-8a2be2?style=flat&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Dia](https://img.shields.io/badge/Dia-Diagrams-grey) ![Wix](https://img.shields.io/badge/Wix-InfoSpark-000000?style=flat&logo=wix&logoColor=white) |
 
 <br />
+
 ## 📜 Licenses & Certifications
 
 | Certification | Issuer & Date | Key Skills |
@@ -89,6 +92,7 @@
 | **AI for Beginners** | **HP LIFE** <br> 2025 | Foundational **Artificial Intelligence** and **Machine Learning**. |
 ---
 <br />
+
 ## 💼 Featured Projects
 
 | | |
@@ -96,6 +100,7 @@
 | 🤖 **Human vs AI Classifier** <br /> SOTA NLP pipeline that distinguishes human-written text from AI-generated content with **$94.3\%$ accuracy**. <br /><br /> • Fine-tuned DistilBERT via Hugging Face <br /> • Processed $105K$ samples (Kaggle) <br /> • Stratified 70/15/15 split strategy <br /><br /> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/NLP-Transformers-8a2be2) | 🍱 **Cuisine Classification** <br /> ML model developed during my **Cognifyz** internship to identify regional food identities based on ingredients. <br /><br /> • Balanced datasets & feature encoding <br /> • Logistic Regression for interpretability <br /> • Iterative model validation <br /><br /> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine-Learning-8a2be2) |
 | 📍 **Restaurant Recommendation** <br /> Context-aware engine that filters global datasets to provide personalized dining options. <br /><br /> • Multi-attribute filtering (Location, Price) <br /> • Deep Exploratory Data Analysis (EDA) <br /> • Optimized for fast user inference <br /><br /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-Optimized-8a2be2) | ⭐ **Rating Predictor** <br /> End-to-end Linear Regression model built from scratch to estimate restaurant popularity. <br /><br /> • Manual Gradient Descent formulation <br /> • Min-Max Normalization for stability <br /> • Performance evaluation via MSE/RMSE <br /><br /> ![Math](https://img.shields.io/badge/Math-Regression-8a2be2) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | 🎮 **Water Jug AI Solver** <br /> Intelligent search agent solving state-space problems using optimized pathfinding. <br /><br /> • Optimized BFS/DFS search algorithms <br /> • State-space search tree visualization <br /> • Logic-based state management <br /><br /> ![AI](https://img.shields.io/badge/AI-Search-8a2be2) ![Logic](https://img.shields.io/badge/Logic-Systems-indigo) | 📱 **Native Android Utility** <br /> Productivity app focused on secure local storage and intuitive user experience. <br /><br /> • Built for Student Internship Program <br /> • Material Design 3 architecture <br /> • Integrated SQLite local databases <br /><br /> ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+<br />
 
 ## 📊 Impact Snapshot
 

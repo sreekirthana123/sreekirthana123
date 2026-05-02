@@ -31,3 +31,18 @@ class SreeKirthana:
     mindset   = "Building Intelligent Systems from scratch 🧠"
     languages = "French (Duolingo) 🇫🇷, Professional C1 level English"
 ```
+<br />
+
+---
+
+<br />
+
+## 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-74283c?style=flat) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-Pipelines-8a2be2) ![AgenticAI](https://img.shields.io/badge/Agentic-AI-8a2be2) |
+| **Data Engineering** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-Pipelines-8a2be2) |
+| **Environment** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Win10](https://img.shields.io/badge/Windows_10-0078D6?style=flat&logo=windows&logoColor=white) |
+| **Tools** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-8a2be2?style=flat&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Dia](https://img.shields.io/badge/Dia-Diagrams-grey) ![Wix](https://img.shields.io/badge/Wix-InfoSpark-000000?style=flat&logo=wix&logoColor=white) |

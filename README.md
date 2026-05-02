@@ -19,3 +19,15 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sreekirthana123&label=PROFILE%20VIEWS&style=for-the-badge&color=181717" />
 </p>
+
+## 👩‍💻 About Me
+
+```python
+class SreeKirthana:
+    degree    = "B.Tech in Artificial Intelligence & Machine Learning"
+    college   = "JB Institute of Engineering & Technology, Hyderabad"
+    location  = "Hyderabad, India"
+    focus     = ["Data Engineering", "MLOps", "Machine Learning", "Agentic AI", "Computer Vision"]
+    mindset   = "Building Intelligent Systems from scratch 🧠"
+    languages = "French (Duolingo) 🇫🇷, Professional C1 level English"
+```

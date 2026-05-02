@@ -42,8 +42,8 @@
 class SreeKirthana:
     degree    = "B.Tech in Artificial Intelligence & Machine Learning"
     college   = "JB Institute of Engineering & Technology, Hyderabad"
-location  = "Hyderabad, India"
-                 focus     = ["Data Engineering", "MLOps", "Machine Learning", "Agentic AI", "Computer Vision"]
+    location  = "Hyderabad, India"
+    focus     = ["Data Engineering", "MLOps", "Machine Learning", "Agentic AI", "Computer Vision"]
     mindset   = "Building Intelligent Systems from scratch 🧠"
     languages = "French (Duolingo) 🇫🇷, Professional C1 level English"
 ```

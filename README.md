@@ -1,28 +1,4 @@
 <div align="center">
-  <!-- Neural Architecture Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=007BFF&height=250&section=header&text=V%20Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Intelligence%20|%20Deep%20Learning%20|%20MLOps&descAlignY=62&descSize=16" />
-
-  <!-- Dynamic Neural Layer SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=1000&lines=%5BINPUT_LAYER%5D+%E2%86%92+2nd+Year+Student+%40+JBIET+%E2%80%A2+AIML;%5BHIDDEN_LAYER%5D+%E2%86%92+Activation%3A+V+Sree+Kirthana;%5BOUTPUT_LAYER%5D+%E2%86%92+Intelligent+Systems+%E2%80%A2+Clean+Code+%E2%80%A2+94.3%25+Accuracy" alt="Neural Layer Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- Integrated Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=sreekirthana123&color=007BFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-
-
-
-
-
-
-
-
-
-<div align="center">
   <!-- Blue Blur Banner with updated name "V Sree Kirthana" -->
   <img src="https://capsule-render.vercel.app/api?type=blur&color=007BFF&height=300&section=header&text=V%20Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Software%20Engineer%20|%20Full%20Stack%20Development%20|%20Deep%20learning&descAlignY=62&descSize=16" />
 

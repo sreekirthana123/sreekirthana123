@@ -61,19 +61,11 @@ class SreeKirthana:
 | 📍 **Restaurant Recommendation** <br /> Context-aware engine that filters global datasets to provide personalized dining options. <br /><br /> • Multi-attribute filtering (Location, Price) <br /> • Deep Exploratory Data Analysis (EDA) <br /> • Optimized for fast user inference <br /><br /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-Optimized-8a2be2) | ⭐ **Rating Predictor** <br /> End-to-end Linear Regression model built from scratch to estimate restaurant popularity. <br /><br /> • Manual Gradient Descent formulation <br /> • Min-Max Normalization for stability <br /> • Performance evaluation via MSE/RMSE <br /><br /> ![Math](https://img.shields.io/badge/Math-Regression-8a2be2) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | 🎮 **Water Jug AI Solver** <br /> Intelligent search agent solving state-space problems using optimized pathfinding. <br /><br /> • Optimized BFS/DFS search algorithms <br /> • State-space search tree visualization <br /> • Logic-based state management <br /><br /> ![AI](https://img.shields.io/badge/AI-Search-8a2be2) ![Logic](https://img.shields.io/badge/Logic-Systems-indigo) | 📱 **Native Android Utility** <br /> Productivity app focused on secure local storage and intuitive user experience. <br /><br /> • Built for Student Internship Program <br /> • Material Design 3 architecture <br /> • Integrated SQLite local databases <br /><br /> ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
-<br />
+## 📊 Impact Snapshot
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_id=0502" width="48%" alt="GitHub Stats" />
-  
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&fire=8a2be2&stroke=8a2be2&ring=8a2be2&background=0D1117&hide_border=true&cache_id=0502" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekirthana123&layout=compact&theme=tokyonight&title_color=8a2be2&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_id=0502" width="70%" alt="Top Languages" />
-</p>
+| Metric | Status |
+| :--- | :--- |
+| **Total Contributions** | ![Contribs](https://img.shields.io/badge/84-Contributions-8a2be2?style=for-the-badge) |
+| **Current Coding Streak** | ![Streak](https://img.shields.io/badge/2--Day-Streak-8a2be2?style=for-the-badge) |
+| **Top Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Project Accuracy Peak** | ![Accuracy](https://img.shields.io/badge/94.3%25-Accuracy-green?style=for-the-badge) |

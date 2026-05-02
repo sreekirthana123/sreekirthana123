@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- Eye-Catching Gradient Waving Banner -->
+  <img src="https://vercel.app" />
+
+<!-- Dynamic Typing SVG -->
+  <a href="https://git.io">
+    <img src="https://herokuapp.com" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <!-- Spring Green Blur Banner -->
   <img src="https://capsule-render.vercel.app/api?type=blur&color=00FF7F&height=250&section=header&text=Sree%20Kirthana&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20|%20Software%20Engineer%20|%20Full%20Stack%20Development%20|%20Deep%20learning&descAlignY=62&descSize=16" />
 

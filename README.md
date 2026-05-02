@@ -8,6 +8,32 @@
   </a>
 </div>
 
+<br />
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/valaboju-sree-kirthana" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- GitHub Badge -->
+  <a href="https://github.com/sreekirthana123" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <!-- Gmail Badge -->
+  <a href="mailto:your.email@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <!-- Portfolio/Other Tag Placeholder -->
+  <a href="#" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p> 
+
 ## 👩‍💻 About Me
 
 ```python

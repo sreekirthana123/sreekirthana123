@@ -46,18 +46,13 @@
 | **Focus** | `Data Engineering` • `MLOps` • `Machine Learning` • `Agentic AI` |
 | **Mindset** | **Building Intelligent Systems from scratch 🧠** |
 | **Languages** | French (Duolingo) 🇫🇷 • Professional C1 level English |
-
 <br />
-
-<br />
-
 ## 🎓 Education
 
 | Institution | Degree & Timeline | Key Highlights |
 | :--- | :--- | :--- |
 | **JB Institute of Engineering & Technology (JBIET)** | **B.Tech in Artificial Intelligence & Machine Learning** <br> Jan 2024 – Nov 2028 | **Grade: 9.0/10** • Focused on building advanced AI systems and leadership. |
 | **St. George's Grammar School** | **Secondary Education** <br> May 2021 – Apr 2023 | Developed strong analytical foundations for engineering. |
-
 
 ## 💼 Professional Experience
 
@@ -69,7 +64,6 @@
 | **Machine Learning Intern** | **Cognifyz Technologies** <br> Sep 2025 – Nov 2025 | Delivered end-to-end ML projects using **Python** and **VS Code**. |
 
 <br /> 
-
 ## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
@@ -81,8 +75,6 @@
 | **Tools** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-8a2be2?style=flat&logo=githubcopilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Dia](https://img.shields.io/badge/Dia-Diagrams-grey) ![Wix](https://img.shields.io/badge/Wix-InfoSpark-000000?style=flat&logo=wix&logoColor=white) |
 
 <br />
-
-
 ## 📜 Licenses & Certifications
 
 | Certification | Issuer & Date | Key Skills |
@@ -95,9 +87,7 @@
 | **Outskill Mastermind GenAI** | **Outskill** <br> Oct 2025 | **Generative AI**, **AI-native development**, and **NotebookLM**. |
 | **AI for Beginners** | **HP LIFE** <br> 2025 | Foundational **Artificial Intelligence** and **Machine Learning**. |
 ---
-
 <br />
-
 ## 💼 Featured Projects
 
 | | |

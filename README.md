@@ -87,8 +87,9 @@
 <br />
 
 ## 📊 GitHub Stats
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&fire=8a2be2&stroke=8a2be2&ring=8a2be2&background=0D1117&hide_border=true&cache_id=0502" width="48%" alt="GitHub Streak" />
+<!-- Streak Stats Card -->
+<p align="center">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/609bbd7c-7856-49c4-bb73-5b9502814cfe" />
 </p>
 
 <br />

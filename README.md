@@ -87,7 +87,9 @@
 <br />
 
 ## 📊 GitHub Stats
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="V Sree Kirthana's GitHub Stats" />
+</div>
 <br />
 <br />
 

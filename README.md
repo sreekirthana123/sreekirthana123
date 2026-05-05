@@ -88,7 +88,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sreekirthana123&show_icons=true&theme=transparent&hide_border=true&title_color=0366D6&text_color=333333&icon_color=0366D6" alt="V Sree Kirthana's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sreekirthana123&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=333333&icon_color=0366D6" alt="GitHub Stats" />
+</div>
 </div>
 <br />
 <br />

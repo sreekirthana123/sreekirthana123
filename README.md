@@ -87,10 +87,6 @@
 <br />
 
 ## 📊 GitHub Stats
-<!-- Streak Stats Card -->
-<p align="center">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/609bbd7c-7856-49c4-bb73-5b9502814cfe" />
-</p>
 
 <br />
 <br />
